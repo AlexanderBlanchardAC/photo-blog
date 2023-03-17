@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/photo-blog/static/css/main.e2a1c3e0.css",
+    "main.js": "/photo-blog/static/js/main.0a6d7448.js",
+    "static/media/img12.jpg": "/photo-blog/static/media/img12.9a30488476d1a92601b2.jpg",
+    "static/media/img20.jpg": "/photo-blog/static/media/img20.79f45fef01f4e074fe32.jpg",
+    "static/media/img3.jpg": "/photo-blog/static/media/img3.5bb570fbdbeea0a582c3.jpg",
+    "static/media/img2.jpg": "/photo-blog/static/media/img2.3bd6cfde91abe3f7a82f.jpg",
+    "static/media/img13.jpg": "/photo-blog/static/media/img13.99f76b7ba95228f6266e.jpg",
+    "static/media/img21.jpg": "/photo-blog/static/media/img21.3a0b5570cc9f90c6d3ba.jpg",
+    "static/media/img6.jpg": "/photo-blog/static/media/img6.ce3f4f137fcec5d8642c.jpg",
+    "static/media/img4.jpg": "/photo-blog/static/media/img4.b0e86b612e38d67b7f38.jpg",
+    "static/media/img10.jpg": "/photo-blog/static/media/img10.03bb4e5125babfe27f94.jpg",
+    "static/media/img11.jpg": "/photo-blog/static/media/img11.2aad6fa9c4efdc388e7e.jpg",
+    "static/media/img14.jpg": "/photo-blog/static/media/img14.89deeab3dfd2bb58a35e.jpg",
+    "static/media/img1.jpg": "/photo-blog/static/media/img1.2e59f01ea0432ffd0be6.jpg",
+    "static/media/img5.jpg": "/photo-blog/static/media/img5.58a5ab63b45c0d587f8f.jpg",
+    "static/media/img7.jpg": "/photo-blog/static/media/img7.563c2b780f73e2bf24ac.jpg",
+    "static/media/img15.jpg": "/photo-blog/static/media/img15.58761f457551db58a743.jpg",
+    "static/media/img17.jpg": "/photo-blog/static/media/img17.66085bacfbdecb8df1d6.jpg",
+    "static/media/img9.jpg": "/photo-blog/static/media/img9.992b48b5cdcebd932047.jpg",
+    "static/media/img22.jpg": "/photo-blog/static/media/img22.98a91ac76e6b6daf0977.jpg",
+    "static/media/img8.jpg": "/photo-blog/static/media/img8.617f09b3956ff7d3933f.jpg",
+    "static/media/img19.jpg": "/photo-blog/static/media/img19.2f0ea19e1c3a30b9b63d.jpg",
+    "static/media/img16.jpg": "/photo-blog/static/media/img16.99c006d0ef7bd4802c82.jpg",
+    "static/media/img18.jpg": "/photo-blog/static/media/img18.baeb8cc124f425243ef6.jpg",
+    "index.html": "/photo-blog/index.html",
+    "main.e2a1c3e0.css.map": "/photo-blog/static/css/main.e2a1c3e0.css.map",
+    "main.0a6d7448.js.map": "/photo-blog/static/js/main.0a6d7448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a1c3e0.css",
+    "static/js/main.0a6d7448.js"
+  ]
+}
